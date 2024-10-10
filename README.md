@@ -1,7 +1,7 @@
 # Henfatafl
 
 <div style="text-align: center">
-    <img src="game_img.png" alt="img" style="zoom: 50%;" />
+    <img src="game_img.png" alt="img" style="zoom: 25%;" />
 </div>
 
 
